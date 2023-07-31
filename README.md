@@ -5,13 +5,13 @@
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" align ="right" width ="400" alt = "Coding"/>
 - 🌱 I’m currently learning **DSA, Web Development ,..**
 
-- 👨‍💻 All of my projects are available at [soon you will get the link 😅](soon you will get the link 😅)
+- 👨‍💻 All of my projects are available [ Here ](https://github.com/saurabhsg99?tab=repositories)
 
 - 💬 Ask me about **DSA, C, C++, ..**
 
 - 📫 How to reach me **saurabhsg1230@gmail.com**
 
-- ⚡ Fun fact **I'm an Introvert 🤗**
+ <!--- ⚡ Fun fact **I'm an Introvert 🤗** ---> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
