@@ -1,6 +1,6 @@
 ![logo](https://github.com/saurabhsg99/saurabhsg99/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Saurabh Gupta</h1>
-<h3 align="center">A passionate Software Engineer from India.</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" align ="right" width ="400" alt = "Coding"/>
 - 🌱 I’m currently learning **DSA, Web Development ,..**
