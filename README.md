@@ -1,5 +1,9 @@
 <img src = "banner.png"/>
-<h1 align="center">Hi 👋,<br> I'm Saurabh Gupta </h1>
+<p align="center"> 
+ <img src="https://readme-typing-svg.demolab.com?font=Tahoma&weight=60&size=33&duration=1000&pause=1&color=000000&repeat=false&random=false&width=35&height=55&lines=Hi" alt="Typing SVG" />
+<!--  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="35" height="35" /> -->
+ <br> 
+ <img src="https://readme-typing-svg.demolab.com?font=Tahoma&weight=500&size=33&pause=1000&color=000BF7&random=false&width=250&lines=I'm+Saurabh+Gupta" alt="Typing SVG" /></p><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" align ="right" width ="400" alt = "Coding"/>
 <br>
@@ -9,7 +13,6 @@
 - My Portfolio site : [Portfolio](https://portfolio-saurabhsg.netlify.app/)
 - 📫 E-mail : **saurabhsg1230@gmail.com**
 
- <!--- ⚡ Fun fact **I'm an Introvert 🤗** ---> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,17 +24,25 @@
 <a href="https://discord.gg/Saurabhsg99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Saurabhsg99" height="30" width="40" /></a>
 </p>
 
+
+
+
+
+## Leetcode <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" />
+
 <div>
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=saurabhsg99&theme=sky&border=border"  height = "300px" alt="LeetCode Badges"/>
 <a href="https://leetcode.com/saurabhsg99/">
     <img src="https://leetcard.jacoblin.cool/saurabhsg99?theme=unicorn&font=Milonga&ext=heatmap" width = "45%"></img>
 <a>
 </div>
-<h3 align="left">Languages and Tools:</h3>
+
+ ## Languages and Tools   <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="30" height = "30"> 
+
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" title ="C Language"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" title="C++ Language"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhsg99&show_icons=true&locale=en&layout=compact" alt="saurabhsg99" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabhsg99&show_icons=true&locale=en" alt="saurabhsg99" /></p>
-
+![Mine GitHub stats](https://github-readme-stats.vercel.app/api?username=saurabhsg99&show_icons=true&theme=ambient_gradient )
+![snake animation](https://github.com/saurabhsg99/saurabhsg99/blob/output/github-contribution-grid-snake2.svg)
 
