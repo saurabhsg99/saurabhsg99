@@ -7,7 +7,7 @@
 
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" align ="right" width ="400" alt = "Coding"/>
 <br>
-🌱 I am a dedicated and enthusiastic student with a burning passion for software engineering and a strong desire to make a positive impact through technology. My goal is to contribute my skills and creativity to the dynamic world of 𝐬𝐨𝐟𝐭𝐰𝐚𝐫𝐞 development and begin a fulfilling career journey.
+🌱 A dedicated and enthusiastic student with a burning passion for software engineering and a strong desire to make a positive impact through technology. My goal is to contribute my skills and creativity to the dynamic world of 𝐬𝐨𝐟𝐭𝐰𝐚𝐫𝐞 development and begin a fulfilling career journey.
 
 - 👨‍💻 All of my projects are available [ Here ](https://github.com/saurabhsg99?tab=repositories)
 - My Portfolio site : [Portfolio](https://portfolio-saurabhsg.netlify.app/)
