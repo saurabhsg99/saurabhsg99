@@ -33,7 +33,7 @@
 <div>
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=saurabhsg99&theme=sky&border=border"  height = "300px" alt="LeetCode Badges"/>
 <a href="https://leetcode.com/saurabhsg99/">
-    <img src="https://leetcard.jacoblin.cool/saurabhsg99?theme=unicorn&font=Milonga&ext=heatmap" width = "45%"></img>
+    <img src="https://leetcard.jacoblin.cool/Saurabhsg99?theme=unicorn&font=Milonga&ext=heatmap"></img>
 <a>
 </div>
 
