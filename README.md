@@ -1,17 +1,30 @@
-<img src = "banner.png"/>
+
+<!--<img src = "banner.png"/>-->
+
+
 <p align="center"> 
- <img src="https://readme-typing-svg.demolab.com?font=Tahoma&weight=60&size=33&duration=1000&pause=1&color=000000&repeat=false&random=false&width=35&height=55&lines=Hi" alt="Typing SVG" />
-<!--  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="35" height="35" /> -->
- <br> 
- <img src="https://readme-typing-svg.demolab.com?font=Tahoma&weight=500&size=33&pause=1000&color=000BF7&random=false&width=250&lines=I'm+Saurabh+Gupta" alt="Typing SVG" /></p><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+   <img src="https://readme-typing-svg.demolab.com?font=Tahoma&weight=60&size=43&duration=1000&pause=1&color=000000&repeat=false&random=false&width=65&height=65&lines=Hi" alt="Typing SVG" >
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="55" height="55" >
+</p>
+
+ <p align = "center">
+   <img src="https://readme-typing-svg.demolab.com?font=Tahoma&weight=500&size=33&pause=1000&color=000BF7&random=false&width=250&lines=I'm+Saurabh" alt="Typing SVG" />
+ </p>
+ 
+ <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" align ="right" width ="400" alt = "Coding"/>
+
 <br>
-🌱 A dedicated and enthusiastic student with a burning passion for software engineering and a strong desire to make a positive impact through technology. My goal is to contribute my skills and creativity to the dynamic world of 𝐬𝐨𝐟𝐭𝐰𝐚𝐫𝐞 development and begin a fulfilling career journey.
+
+<div>
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="20" height="20">          A dedicated and enthusiastic student with a burning passion for software engineering and a strong desire to make a positive impact through technology. My goal is to contribute my skills and creativity to the dynamic world of 𝐬𝐨𝐟𝐭𝐰𝐚𝐫𝐞 development and begin a fulfilling career journey.
 
 - 👨‍💻 All of my projects are available [ Here ](https://github.com/saurabhsg99?tab=repositories)
 - My Portfolio site : [Portfolio](https://portfolio-saurabhsg.netlify.app/)
 - 📫 E-mail : **saurabhsg1230@gmail.com**
+</div>
+
 
 
 <h3 align="left">Connect with me:</h3>
