@@ -21,7 +21,8 @@
  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="20" height="20">          A dedicated and enthusiastic student with a burning passion for software engineering and a strong desire to make a positive impact through technology. My goal is to contribute my skills and creativity to the dynamic world of 𝐬𝐨𝐟𝐭𝐰𝐚𝐫𝐞 development and begin a fulfilling career journey.
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Card%20Index%20Dividers.webp" alt="Card Index Dividers" width="25" height="25" /> All of my projects are available [ Here ](https://github.com/saurabhsg99?tab=repositories)
- My Portfolio site : [Portfolio](https://portfolio-saurabhsg.netlify.app/)<br>
+
+ <!--My Portfolio site : [Portfolio](https://portfolio-saurabhsg.netlify.app/)<br>-->
   <img src = "https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width ="30" height ="30"/> E-mail : **saurabhsg1230@gmail.com**
 </div>
 
