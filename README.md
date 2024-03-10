@@ -143,7 +143,7 @@
 <a href="https://www.leetcode.com/saurabhsg99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saurabhsg99" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/saurabhsg99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="saurabhsg99" height="30" width="40" /></a>
 <a href="https://discord.gg/Saurabhsg99" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Saurabhsg99" height="40" width="40" /></a>
-<a href="https://www.youtube.com/c/trickyworld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="trickyworld" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@TrickyWorldSg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="trickyworld" height="30" width="40" /></a>
 </p>
 
 
