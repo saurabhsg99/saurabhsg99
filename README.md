@@ -53,8 +53,8 @@
     </summary>
        <code><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" alt="c" width="40" height="40" title ="C Language"/></code> 
        <code><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg" alt="cplusplus" width="40" height="40" title="C++ Language"/></code>
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></code>
-       <code><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" alt="cplusplus" width="40" height="40" title="Python"/></code>
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title ="Javascript" width="40" height="40"/></code>
+       <code><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" alt="Python" width="40" height="40" title="Python"/></code>
  
  </details>
 
@@ -62,12 +62,12 @@
     <summary>
      <b> Tools : </b>
     </summary>
-       <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></code>
-       <code><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" alt="git" width="40" height="40"/></code>
-       <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="40" /></code>
-       <code><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Netlify-Dark.svg" alt="mysql" width="40" height="40" /></code>
-       <code><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LaTeX-Dark.svg" alt="mysql" width="40" height="40" /></code>
-       <code><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" alt="mysql" width="40" height="40" /></code>
+       <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title="Git"/></code>
+       <code><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" alt="VS Code" width="40" height="40"title="VS Code"/></code>
+       <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="40" title="MySQL" /></code>
+       <code><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Netlify-Dark.svg" alt="Netlify" width="40" height="40" title="Netlify"/></code>
+       <code><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LaTeX-Dark.svg" alt="Latex" width="40" height="40" title = "LaTeX" /></code>
+       <code><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" alt="Github" width="40" height="40" title = "GitHub" /></code>
        
  
  </details>
@@ -75,8 +75,8 @@
     <summary>
      <b> Frameworks or Libraries : </b>
     </summary>
-       <code><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg" width="40" height="40"/></code>
-       <code><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" alt="git" width="40" height="40"/></code>
+       <code><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg" width="40" height="40" title = "TailwindCSS" /></code>
+       <code><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" alt="ReactJs" width="40" height="40"title = "ReactJs"/></code>
        
  
  </details>
@@ -85,10 +85,10 @@
      <b> Others : </b>
     </summary>
     <a href="https://www.w3schools.com/css/" target="_blank"> 
-   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></code>
+   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" title = "CSS" /></code>
    </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /></code>
+   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" title="HTML" /></code>
    </a> 
  
  </details>
@@ -96,11 +96,11 @@
     <summary>
      <b> OS : </b>
     </summary>
-    <img src ="https://github.com/tandpfun/skill-icons/raw/main/icons/Windows-Dark.svg" width="40" height="40"/>
-    <img src ="https://github.com/tandpfun/skill-icons/raw/main/icons/Ubuntu-Dark.svg" width="40" height="40"/>
+    <img src ="https://github.com/tandpfun/skill-icons/raw/main/icons/Windows-Dark.svg" width="40" height="40" title ="Windows"/>
+    <img src ="https://github.com/tandpfun/skill-icons/raw/main/icons/Ubuntu-Dark.svg" width="40" height="40"title ="Ubuntu"/>
      <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-        width="40" height="40" /> 
+        width="40" height="40" title ="Linux" /> 
    </a> 
  
  </details>
