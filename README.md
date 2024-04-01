@@ -32,9 +32,10 @@
 
  ### Badges 
  <div>
+  <img src ="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" width = "55" height = "55" alt = "Leetcode Badegs" />
   <img src ="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width = "55" height = "55" alt = "Leetcode Badegs" />
-  <img src ="https://leetcode.com/static/images/badges/2024/gif/2024-01.gif" width = "55" height = "55" alt = "Leetcode Badegs" />
   <img src ="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" width = "55" height = "55" alt = "Leetcode Badegs" />
+  <img src ="https://leetcode.com/static/images/badges/2024/gif/2024-01.gif" width = "55" height = "55" alt = "Leetcode Badegs" />
   <img src ="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" width = "55" height = "55" alt = "Leetcode Badegs" />
   <img src ="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" width = "55" height = "55" alt = "Leetcode Badegs" />
   <img src ="https://leetcode.com/static/images/badges/2023/gif/2023-07.gif" width = "55" height = "55" alt = "Leetcode Badegs" />
