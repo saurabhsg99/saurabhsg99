@@ -144,6 +144,7 @@
 <code><a href="https://www.leetcode.com/saurabhsg99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saurabhsg99" height="30" width="40" /></a></code>
 <code><a href="https://auth.geeksforgeeks.org/user/saurabhsg99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="saurabhsg99" height="30" width="40" /></a></code>
 <code><a href="https://www.naukri.com/code360/profile/saurabhsg99" target="blank"><img align="center" src="https://www.codingninjas.com/assets-landing/images/CNLOGO.svg" alt="saurabhsg99" height="40" width="40" /></a></code>
+<code><a href="https://www.hackerrank.com/profile/saurabhsg1230" target="blank"><img align="center" src="https://simpleicons.org/icons/hackerrank.svg" alt="saurabhsg99" height="40" width="40" /></a></code>
 </p>
 
 
@@ -157,3 +158,13 @@
 
 
 
+
+
+## Random Dev Quote <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="25" height="25">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light">
+
+
+<!-- ## Profile Views <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Baby.png" alt="Baby" width="25" height="25">
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=saurabhsg99&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhsg99">
+</p> -->
