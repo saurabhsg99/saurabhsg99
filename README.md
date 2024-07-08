@@ -137,12 +137,20 @@
 
 ![Mine GitHub stats](https://github-readme-stats.vercel.app/api?username=saurabhsg99&show_icons=true&theme=ambient_gradient )
 
+
+## Coding Profiles :  <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="30" height = "30"> 
+<p align="left">
+
+<code><a href="https://www.leetcode.com/saurabhsg99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saurabhsg99" height="30" width="40" /></a></code>
+<code><a href="https://auth.geeksforgeeks.org/user/saurabhsg99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="saurabhsg99" height="30" width="40" /></a></code>
+<code><a href="https://www.naukri.com/code360/profile/saurabhsg99" target="blank"><img align="center" src="https://www.codingninjas.com/assets-landing/images/CNLOGO.svg" alt="saurabhsg99" height="40" width="40" /></a></code>
+</p>
+
+
 ## Connect with me : <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" />
 <p align="left">
 <a href="https://linkedin.com/in/saurabhsg99" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="saurabhsg99" height="40" width="40" /></a>
 <a href="https://instagram.com/sg_saurabh21" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="sg_saurabh21" height="40" width="40" /></a>
-<a href="https://www.leetcode.com/saurabhsg99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saurabhsg99" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/saurabhsg99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="saurabhsg99" height="30" width="40" /></a>
 <a href="https://discord.gg/Saurabhsg99" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Saurabhsg99" height="40" width="40" /></a>
 <a href="https://www.youtube.com/@TrickyWorldSg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="trickyworld" height="30" width="40" /></a>
 </p>
