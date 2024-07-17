@@ -32,6 +32,7 @@
 
  ### Badges 
  <div>
+  <img src ="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width = "55" height = "55" alt = "Leetcode Badegs" />
   <img src ="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" width = "55" height = "55" alt = "Leetcode Badegs" />
   <img src ="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width = "55" height = "55" alt = "Leetcode Badegs" />
   <img src ="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" width = "55" height = "55" alt = "Leetcode Badegs" />
