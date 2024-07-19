@@ -57,6 +57,8 @@
        <code><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg" alt="cplusplus" width="40" height="40" title="C++ Language"/></code>
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title ="Javascript" width="40" height="40"/></code>
        <code><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" alt="Python" width="40" height="40" title="Python"/></code>
+       <code><img src="https://skillicons.dev/icons?i=java" alt="Python" width="40" height="40" title="Java"/></code>
+       
  
  </details>
 
@@ -142,10 +144,10 @@
 ## Coding Profiles :  <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="30" height = "30"> 
 <p align="left">
 
-<code><a href="https://www.leetcode.com/saurabhsg99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saurabhsg99" height="30" width="40" /></a></code>
-<code><a href="https://auth.geeksforgeeks.org/user/saurabhsg99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="saurabhsg99" height="30" width="40" /></a></code>
-<code><a href="https://www.naukri.com/code360/profile/saurabhsg99" target="blank"><img align="center" src="https://www.codingninjas.com/assets-landing/images/CNLOGO.svg" alt="saurabhsg99" height="40" width="40" /></a></code>
-<code><a href="https://www.hackerrank.com/profile/saurabhsg1230" target="blank"><img align="center" src="https://simpleicons.org/icons/hackerrank.svg" alt="saurabhsg99" height="40" width="40" /></a></code>
+<code><a href="https://www.leetcode.com/saurabhsg99" title="Leetcode"  target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saurabhsg99" height="30" width="40" /></a></code>
+<code><a href="https://auth.geeksforgeeks.org/user/saurabhsg99" title="GFG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="saurabhsg99" height="30" width="40" /></a></code>
+<code><a href="https://www.naukri.com/code360/profile/saurabhsg99" title="Coding Ninza" target="blank"><img align="center" src="https://www.codingninjas.com/assets-landing/images/CNLOGO.svg" alt="saurabhsg99" height="40" width="40" /></a></code>
+<code><a href="https://www.hackerrank.com/profile/saurabhsg1230" title="Hackerrank" target="blank"><img align="center" src="https://simpleicons.org/icons/hackerrank.svg" alt="saurabhsg99" height="40" width="40" /></a></code>
 </p>
 
 
