@@ -72,7 +72,7 @@
        <code><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Netlify-Dark.svg" alt="Netlify" width="40" height="40" title="Netlify"/></code>
        <code><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LaTeX-Dark.svg" alt="Latex" width="40" height="40" title = "LaTeX" /></code>
        <code><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" alt="Github" width="40" height="40" title = "GitHub" /></code>
-       
+       <img src="https://skillicons.dev/icons?i=pycharm" alt="Python" width="40" height="40" title="Java"/>
  
  </details>
  <details> 
